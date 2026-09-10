@@ -11,7 +11,7 @@ To design and simulate a **Booth Multiplier** using **Verilog HDL** and verify i
 - Minimum **4GB RAM** and a **multi-core processor**
 
 ## Theory
-Booth’s multiplication algorithm is an efficient way to perform **signed integer multiplication**. It reduces the number of **add/subtract operations** and handles negative numbers efficiently.
+Booth’s multiplication algorithm is an efficient way to perform **signed integer multiplication**. It reduces the number of **add/subtract operations** and handles negative numbers efficiently
 
 ### Booth's Algorithm Steps:
 1. **Initialize** the multiplier and multiplicand.
